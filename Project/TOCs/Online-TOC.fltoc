@@ -2,11 +2,9 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Knowledge-Check/A/1-Course-Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Knowledge-Check/A/2-Just-Text.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
@@ -14,24 +12,19 @@
     Link="/Content/Course-Knowledge-Check/First-Knowledge-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     conditions="Default.KnowledgeCheck" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Knowledge-Check/A/4-0-Hotspot-Popups.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Knowledge-Check/A/5-Drop-Downs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Course-Knowledge-Check/Second-Knowledge-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     conditions="Default.KnowledgeCheck" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Knowledge-Check/A/6-Slideshow.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Knowledge-Check/A/7-Video.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Knowledge-Check/A/8-IFrame.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Course-Knowledge-Check/The-End.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"

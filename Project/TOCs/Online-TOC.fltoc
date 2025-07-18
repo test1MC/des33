@@ -9,7 +9,7 @@
     Link="/Content/Course-Content/2-Just-Text.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Course-Content/Apple.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/Course-Knowledge-Check/Apple.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Course-Knowledge-Check/First-Knowledge-Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
